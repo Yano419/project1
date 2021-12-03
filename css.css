@@ -1,0 +1,21 @@
+html {
+    background-color: #ffdb;
+    font-size: medium;
+}
+
+.red {
+    color:maroon;
+}
+
+h2 {
+    text-transform: uppercase;
+    margin: 30px;
+}
+
+span {
+    font-style: italic;
+}
+
+li {
+    color: maroon;
+}
